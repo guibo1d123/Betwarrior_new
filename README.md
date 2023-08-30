@@ -1,2 +1,2 @@
-# Betwarrior_new
-Pruebas automatizadas de Betwarrior Para CABA, PBA , Mendoza 
+# WEB-MENDOZA
+Testeo para la pagina Web de Mendoza
